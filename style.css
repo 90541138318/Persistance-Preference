@@ -1,0 +1,40 @@
+/* Default Light Theme */
+body.light {
+    background-color: rgb(235, 226, 226);
+    color: black;
+  }
+  
+  body.dark {
+    background-color: #333;
+    color: white;
+  }
+  
+  body.red {
+    background-color: #ed0e0e;
+    color: white;
+  }
+  body.green {
+    background-color: #1f871f;
+    color: white;
+  }
+  
+  body.blue {
+    background-color: #007BFF;
+    color: white;
+  }
+  
+  ul.list-group-flush {
+    border: none;
+    padding-left: 0;
+  }
+  
+  ul.list-group-horizontal {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  ul.list-group-horizontal li {
+    margin-right: 10px;
+    margin-bottom: 10px;
+  }
+  
